@@ -66,8 +66,8 @@ The model's performance is evaluated using:
 
 ## Contributors
 
-Bao Khoi Bui
-Sally Alakeel
-Max Ouellette
-Gabriel Mena
+Bao Khoi Bui, 
+Sally Alakeel, 
+Max Ouellette, 
+Gabriel Mena, 
 Luis Waldo
