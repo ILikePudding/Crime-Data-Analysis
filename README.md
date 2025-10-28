@@ -1,4 +1,4 @@
-# Crime Data Analysis Project
+# Crime Data Analysis 
 
 This project analyzes crime data from 2010 to 2019 using machine learning techniques to predict violent crimes based on various features such as victim demographics, location characteristics, and time of occurrence.
 
